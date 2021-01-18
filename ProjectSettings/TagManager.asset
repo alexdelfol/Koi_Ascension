@@ -4,10 +4,9 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - AudioSystem
+  - Rock
   - Angry_Fish
   - Branch
-  - Rock
   layers:
   - Default
   - TransparentFX
